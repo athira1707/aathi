@@ -1,0 +1,14 @@
+div{
+    border: 1px solid red;
+    width: 300px;
+    left: 300px;
+    position: relative;
+    background-color: rgb(245, 245, 235);
+}
+img{
+    border: 1px dotted rgb(235, 107, 128);
+    border-radius: 50%;
+}
+ /* body{
+     background-color: aquamarine;
+ } */
